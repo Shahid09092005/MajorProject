@@ -15,7 +15,11 @@ It provides semantic matching with explainable scoring, identifies skill gaps, o
 ---
 
 ## Project Structure
-d:\JobProject/
+# Job Application Analysis System
+
+## Project Structure
+
+```plaintext
 ├── app.py                          # Streamlit frontend
 ├── config.py                       # Centralized configuration
 ├── .env                            # GEMINI_API_KEY (gitignored)
@@ -47,7 +51,6 @@ d:\JobProject/
     ├── question_generator.py       # Gemini adaptive question generation
     ├── voice_engine.py             # pyttsx3 TTS + SpeechRecognition STT
     └── answer_evaluator.py         # Embedding similarity + Gemini evaluation
-
 
 ---
 

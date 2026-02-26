@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+sentence-transformers
+PyMuPDF
+pydantic
+python-dotenv
+pyttsx3
+SpeechRecognition
+PyAudio
+numpy
+scikit-learn
